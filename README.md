@@ -80,11 +80,11 @@ Fourth-year B.Tech Computer Science Engineering student at DES Pune University w
  
 <div align="center">
  <br/>
-[![GitHub] (https://github.com/20-Krishna-04)]
+GitHub (https://github.com/20-Krishna-04)]
  <br/>
-[![LinkedIn] (https://linkedin.com)]
+LinkedIn (https://linkedin.com)]
  <br/>
-[![Email](mailto:2025krishnad@gmail.com)
+Email (mailto:2025krishnad@gmail.com)
 <br/>
  
 </div>
