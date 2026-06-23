@@ -1,101 +1,104 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Ridhesh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Engineering%20Student&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Krishna%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20CS%20Engineering%20Student&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
 <br/>
 <br/>
 </div>
-
 ## 🧑‍💻 About Me
-
-const ridhesh = {
-  education: "B.E. Computer Science Engineering @ DES, Pune | CGPA: 8.55",
-  currentRole: "MERN Stack Intern @ UpToSkills (Mar–Jun 2026)",
-  prevRole: "MERN Stack Intern @ Amdox Technologies (Jan–Mar 2026)",
+ 
+```js
+const krishna = {
+  education: "B.Tech Computer Science Engineering @ DES Pune University",
+  seeking: "Data Analyst | Data Engineer | ML Intern",
+  workExp: "Office & Inventory Manager @ The Art Therapy, Pune (Jul 2025 – Apr 2026)",
   interests: [
-    "Full-Stack Dev",
-    "AI/ML",
-    "Game Dev (Unity → Unreal Engine)"
+    "Data Analytics & Engineering",
+    "Machine Learning & AI",
+    "Computer Vision",
+    "Dashboard & BI Development"
   ],
-  learning: [
-    "DSA",
-    "TypeScript",
-    "Next.js",
-    "System Design"
-  ],
-  funFact: "I trace algorithms on paper before I code them 📝"
+  certifiedBy: ["Tata (GenAI)", "AWS (Solutions Architecture)", "HPE (Software Engineering)"],
+  funFact: "I turn raw CSVs into insights before most people finish reading the column headers 📊"
 };
-
-
-
-
-
-🚀 Featured Projects
-🔍 AI-Powered Deepfake Detection
-
-
-
-
-🛡️ HOD-YOLO — Harmful Object Detection
-
-Real-time threat detection in live video streams
-
-
-Powered by YOLOv8 for frame-level object detection
-Detects harmful objects in live/CCTV streams
-Published as an IEEE-format research paper
-
-
-🌱 Plant Leaf Disease Detection
-
-Smart Agriculture with Explainable AI
-
-
-EfficientNetB3 backbone for disease classification
-Grad-CAM visualizations for model interpretability
-Treatment recommendation system integrated
-Focused on tomato leaf diseases
-
-
-🏠 Worker–User Portal
-
-Connecting households with skilled workers
-
-
-Flask + React + MySQL + Docker stack
-Real-time chat via WebSockets
-Role-based subdomain routing for workers vs users
-Full authentication & booking workflow
-
-
-
-
-📈 My Learning Journey
-2024 ──────────────────────────────────────────────────────────────────► 2026
-  │                                                                         │
-  ▼                                                                         ▼
-[Flask + React]  →  [MERN Stack]  →  [AI/ML Projects]  →  [DSA + TypeScript]
- Worker Portal      Amdox Intern     Deepfake + YOLO       30-Day Roadmap 🔥
-🗺️ Current 30-Day Roadmap
-
- JavaScript Fundamentals (deep dive)
- Data Structures & Algorithms
- Node.js / Express — backend from scratch
- React — rebuild without AI assistance
- AI Integration in full-stack apps
-
-
-💡 "Earlier I relied on AI-generated code. Now I write every line myself and understand it."
-
-
-📊 GitHub Stats
+```
+ 
+---
+ 
+## 🚀 Featured Projects
+ 
+### 📊 Smart Dash
+> Power BI-style dashboard with automated data cleaning
+- Automated **CSV ingestion** and data cleaning pipeline
+- Visual **KPI reports** built with Python & matplotlib
+- **Tech:** Python, pandas, matplotlib
+### 🍅 Tomato Leaf Disease Detection
+> CNN model for early agricultural disease detection
+- Classifies tomato leaf diseases from images
+- Deep learning pipeline for **real-world agricultural use**
+- **Tech:** Python, CNN, TensorFlow/Keras
+### 🛍️ E-Commerce Product Recommendation System
+> ML-powered recommendation engine
+- Suggests relevant products based on **browsing & purchase behaviour**
+- **Tech:** Python, Machine Learning
+### 💬 Social Media Sentiment Analysis
+> NLP pipeline for real-world text analysis
+- Analyses text producing **polarity & subjectivity scores**
+- Applied on real-world social media datasets
+- **Tech:** Python, NLP, pandas
+### 📈 CRM Dashboard
+> Sales pipeline & customer KPI tracker
+- SQL-powered queries feeding into visual dashboards
+- Tracks full **sales funnel and customer metrics**
+- **Tech:** Python, SQL, Data Visualization
+### 📉 Power BI Dashboard
+> Interactive business intelligence reporting
+- Built interactive **BI dashboards** for data-driven decision making
+- KPI tracking and executive reporting
+- **Tech:** Power BI, Data Visualization
+---
+ 
+## 🛠️ Skills
+ 
+**Languages & Frameworks**
+`Python` `SQL` `Java` `HTML5` `CSS3`
+ 
+**Data & ML**
+`pandas` `numpy` `matplotlib` `seaborn` `scikit-learn` `TensorFlow/Keras` `Deep Learning` `NLP`
+ 
+**Tools & Platforms**
+`Jupyter Notebook` `Power BI` `Git` `REST APIs`
+ 
+**Cloud & Simulations**
+`AWS Solutions Architecture` `HPE Software Engineering` `GenAI-Powered Data Analytics`
+ 
+---
+ 
+## 🏅 Certifications
+ 
+| Certification | Issuer |
+|---|---|
+| Artificial Intelligence Fundamentals | — |
+| Solutions Architecture Job Simulation | AWS (Forage) |
+| Software Engineering Job Simulation | Hewlett Packard Enterprise (Forage) |
+| GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=20-Krishna-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20-Krishna-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=20-Krishna-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20-Krishna-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
 <br/>
-
 </div>
-
-🤝 Let's Connect
+---
+ 
+## 🤝 Let's Connect
+ 
 <div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-20--Krishna--04-181717?style=for-the-badge&logo=github)](https://github.com/20-Krishna-04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Dhamdhere-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-2025krishnad%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:2025krishnad@gmail.com)
+ 
 </div>
 <br/>
 <div align="center">
