@@ -5,23 +5,7 @@
 </div>
 ## 🧑‍💻 About Me
  
-```js
-const krishna = {
-  education: "B.Tech Computer Science Engineering @ DES Pune University",
-  seeking: "Data Analyst | Data Engineer | ML Intern",
-  workExp: "Office & Inventory Manager @ The Art Therapy, Pune (Jul 2025 – Apr 2026)",
-  interests: [
-    "Data Analytics & Engineering",
-    "Machine Learning & AI",
-    "Computer Vision",
-    "Dashboard & BI Development"
-  ],
-  certifiedBy: ["Tata (GenAI)", "AWS (Solutions Architecture)", "HPE (Software Engineering)"],
-  funFact: "I turn raw CSVs into insights before most people finish reading the column headers 📊"
-};
-```
- 
----
+Fourth-year B.Tech Computer Science Engineering student at DES Pune University with a strong foundation in AI, data analytics, and software development. Projects span machine learning, dashboard development, and computer vision. Certified by Tata, AWS, and HPE. Seeking a data analyst, data engineer, or ML intern role to contribute to real-world, data-driven solutions.
  
 ## 🚀 Featured Projects
  
