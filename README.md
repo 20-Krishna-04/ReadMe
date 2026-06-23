@@ -79,9 +79,13 @@ Fourth-year B.Tech Computer Science Engineering student at DES Pune University w
 ## 🤝 Let's Connect
  
 <div align="center">
+ <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-20--Krishna--04-181717?style=for-the-badge&logo=github)](https://github.com/20-Krishna-04)
+ <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Dhamdhere-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+ <br/>
 [![Email](https://img.shields.io/badge/Email-2025krishnad%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:2025krishnad@gmail.com)
+<br/>
  
 </div>
 <br/>
