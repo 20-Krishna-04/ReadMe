@@ -64,27 +64,17 @@ Fourth-year B.Tech Computer Science Engineering student at DES Pune University w
 | Solutions Architecture Job Simulation | AWS (Forage) |
 | Software Engineering Job Simulation | Hewlett Packard Enterprise (Forage) |
 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
- 
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=20-Krishna-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20-Krishna-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
-<br/>
-</div>
----
+
  
 ## 🤝 Let's Connect
  
 <div align="center">
  <br/>
-GitHub (https://github.com/20-Krishna-04)]
+GitHub - https://github.com/20-Krishna-04
  <br/>
-LinkedIn (https://linkedin.com)]
+LinkedIn - https://linkedin.com
  <br/>
-Email (mailto:2025krishnad@gmail.com)
+Email - 2025krishnad@gmail.com
 <br/>
  
 </div>
